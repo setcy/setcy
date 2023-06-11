@@ -22,6 +22,7 @@ jobs:
           SETTING_JSON: settings/season.json
 
       - name: Commit & Push
+        continue-on-error: true
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
