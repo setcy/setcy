@@ -1,11 +1,11 @@
 {
   "type": "season",
   "fileName": "profile-custom-season.svg",
-  "backgroundColor": "#000d1117",
-  "foregroundColor": "#ffffff",
-  "strongColor": "#9999EE",
-  "weakColor": "gray",
-  "radarColor": "#47a042",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "rgb(255,200,55)",
+  "weakColor": "#aaaaaa",
+  "radarColor": "rgb(255,200,55)",
   "growingAnimation": true,
   "contribColors1": [
     "#efefef",
