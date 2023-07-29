@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-🌱 I am currently student of Computer Science and Technology in Hangzhou Dianzi University.
+🌱 I am currently student in Hangzhou Dianzi University
+
+🔭 Favorite languages: React, Flutter, Golang (although I usually only use Golang)
+
+🧑 Currently the core of [HDUHELP](https://github.com/hduhelp), a club of HDU
+
+💬 Hope to make friends with many kind people.
+
+🤔 It would be great if someone could teach me how to code.
 
 ![counter](https://komarev.com/ghpvc/?username=setcy1)
 
