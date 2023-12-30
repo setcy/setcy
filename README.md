@@ -1,14 +1,20 @@
-### Hi there 👋
+### 🌟 Welcome to My GitHub Galaxy! 🌟
 
-🌱 I am currently student in Hangzhou Dianzi University
+## About Me
 
-🔭 Favorite languages: React, Flutter, Golang (although I usually only use Golang)
+🌱 I am currently a student at Hangzhou Dianzi University.
 
-🧑 Currently the core of [HDUHELP](https://github.com/hduhelp), a club of HDU
+🔭 I have a deep passion for **Golang**. Its efficiency, simplicity, and powerful capabilities in system and network programming have captivated me, and I am dedicated to mastering this language.
 
-💬 Hope to make friends with many kind people.
+🧑 I am currently the core member of [HDUHELP](https://github.com/hduhelp), a dynamic club at Hangzhou Dianzi University. We're all about tech, innovation, and community service.
 
-🤔 It would be great if someone could teach me how to code.
+## Let's Connect
+
+💬 I hope to make friends with many kind and like-minded individuals. Feel free to reach out to me for collaborations, or just a friendly chat about the latest in tech.
+
+🤔 I'm on a continuous journey to enhance my coding skills. It would be fantastic if someone could mentor me and guide me through the coding.
+
+🌐 You can reach me at asetcy@gmail.com.
 
 ![counter](https://komarev.com/ghpvc/?username=setcy1)
 
